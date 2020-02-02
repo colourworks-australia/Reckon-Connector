@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbLinq">
+  <DataContextMoniker Name="/dbLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ea6cc4a3-843f-4ba3-8d72-261466a17841" absoluteBounds="1.375, 1.375, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/dbLinqDataContext/Cards" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bed7a69-082f-4383-99dd-da9eb3685fbd" absoluteBounds="1.39, 1.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1b50315-41c6-44e9-9c61-b0006260d1e9" absoluteBounds="1.375, 4.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbLinqDataContext/Accounts" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f3f09b4-70af-4e4b-b3f7-4af673f78fdb" absoluteBounds="1.39, 4.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
